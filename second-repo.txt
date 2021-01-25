@@ -1,5 +1,5 @@
-first line (alternative)
+first line
 second line
-third line (alternative)
+third line 
 fourth line
 fifth line
